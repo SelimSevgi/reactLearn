@@ -14,7 +14,10 @@ root.render(
     {/* TERMİNAL
     terminalde klasör seçmek ve yerine gitmek için cd kullanılır
     cd .. kalasörden çıkmak için kullanılır
-    cd ./___ ise ilgili klasörü seçmek ve içinde kullanılan verilere erişim sağlamak için kullanılır */}
+    cd ./___ ise ilgili klasörü seçmek ve içinde kullanılan verilere erişim sağlamak için kullanılır 
+    
+    
+    */}
     <App />
   </React.StrictMode>
 );
