@@ -1,11 +1,21 @@
-import "./App.css";
-
+const panels = document.querySelectorAll(".panel");
+panels.forEach((panel) => [
+  panel.addEventListener("click", () => {
+    removeActive();
+    panel.classList.add("active");
+  }),
+]);
+function removeActive() {
+  panels.forEach((panel) => {
+    panel.classList.remove("active");
+  });
+}
 function App() {
   return (
     <div className="App">
       <div className="container">
         <div
-          className="panelActive"
+          className="panel active"
           style={{
             backgroundImage: `url("https://cdn1.ntv.com.tr/gorsel/pAx1_ARvDUuhC0XtmPr7MQ.jpg?width=1000&mode=both&scale=both&v=1661418292796")`,
           }}
