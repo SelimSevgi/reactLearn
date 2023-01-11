@@ -75,11 +75,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - [![Next][next.js]][next-url]
 - [![React][react.js]][react-url]
 <!-- * [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url] -->
+
+* [![Angular][angular.io]][angular-url]
+* [![Svelte][svelte.dev]][svelte-url]
+* [![Laravel][laravel.com]][laravel-url]
+* [![Bootstrap][bootstrap.com]][bootstrap-url]
+* [![JQuery][jquery.com]][jquery-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,6 +187,7 @@ Distributed under the MIT License.
 ## Acknowledgments
 
 - [Tayfun Erbilen](https://github.com/tayfunerbilen)
+- [Ozan Tekin](https://github.com/ozantekin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +199,7 @@ Distributed under the MIT License.
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
 
-<!-- 
+<!--
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -213,5 +215,5 @@ Distributed under the MIT License.
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com  
+[JQuery-url]: https://jquery.com
 -->
