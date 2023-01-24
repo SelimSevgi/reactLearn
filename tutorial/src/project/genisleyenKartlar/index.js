@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import "./index.css";
 const data = [
   {
     title: "Nemrut",
@@ -22,7 +23,7 @@ const data = [
   },
 ];
 
-function App() {
+function GenisleyenKart() {
   const [selectedInx, setInx] = useState(0);
 
   // useEffect(() => {
@@ -68,4 +69,4 @@ function App() {
   );
 }
 
-export default App;
+export default GenisleyenKart;
